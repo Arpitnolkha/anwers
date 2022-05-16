@@ -1,4 +1,8 @@
-# Answer 1
+---
+title: Skill test
+description: Answer of Skill test questions
+author: You
+---
 ## Favourite tasks - PS: Selecting 5 from the list is difficult and I do like more than 5 task.
 1. Respond to 50+ support requests via email every day - This is my job role's most important requirement and would keep doing this since it keeps me up to date with the issues customers are facing and we can find a trend through them and share the same with the product team. Also we can develop new feature using that trend.
 2. Dig through logs to troubleshoot a customer's broken project - Its my most favourite part as being a support agent. It helped in troubleshooting the customer issues and provided them the much needed resolution, since this is the basic and foremost important responsibility of a support agent.
