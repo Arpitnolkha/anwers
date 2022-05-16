@@ -25,4 +25,7 @@ For more details, please refer to this support document: https://vercel.com/blog
 I hope this helps, please let us know if you need any further assistance, more than happy to help.
 
 Thanks and Regards
-<br>Arpit</br><br>Vercel Support</br>
+
+Arpit
+
+Vercel Support
