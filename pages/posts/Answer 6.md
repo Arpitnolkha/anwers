@@ -1,5 +1,5 @@
 ---
-title: Custom domain
+title: Answer 6
 date: 2022/5/16
 description: Domain addition
 tag: domain
