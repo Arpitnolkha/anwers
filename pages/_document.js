@@ -13,8 +13,7 @@ export default function Document() {
        Hey Welcome to my site, you can find my answers here.
       </Head>
       <body>
-        <Main />
-        <NextScript />
+        This Arpit and I love to be a support agent.
       </body>
     </Html>
   )
